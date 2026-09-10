@@ -1,0 +1,39 @@
+name: SistemaSocio
+version: 1.0.0
+main: dev.paulobernardes.sistemasocio.SistemaSocio
+api-version: '1.21'
+
+author: Paulo Bernardes
+description: Sistema de Sócios do servidor
+
+depend:
+  - LuckPerms
+  - Vault
+
+commands:
+  setsocio:
+    description: Define um Sócio para um jogador
+    usage: /setsocio <jogador> <socio> <tempo>
+    permission: sistemasocio.admin
+
+  sociohelp:
+    description: Mostra a ajuda do SistemaSocio
+    usage: /sociohelp
+
+  removesocio:
+    description: Remove o Sócio de um jogador
+    usage: /removesocio <jogador>
+    permission: sistemasocio.admin
+
+  gerarkey:
+    description: Gera Keys de Sócio
+    usage: /gerarkey <socio> <quantidade> <duracao>
+    permission: sistemasocio.admin
+
+  key:
+    description: Resgata uma Key de Sócio
+    usage: /key <chave>
+
+  socio:
+    description: Abre o menu do SistemaSocio
+    usage: /socio

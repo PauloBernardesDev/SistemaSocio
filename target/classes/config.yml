@@ -1,0 +1,37 @@
+configuracao:
+  versao: 1
+
+socios:
+
+  socio:
+    nome: "&aSócio"
+    grupo-luckperms: "socio"
+    nivel: 1
+    preco: 25.00
+    dinheiro-ativacao: 500000
+    duracao: 30d
+    ativado: true
+
+    beneficios:
+      - "&7Prefixo exclusivo"
+      - "&7Kit Sócio"
+      - "&7R$500.000 na ativação"
+
+  socio-plus:
+    nome: "&bSócio+"
+    grupo-luckperms: "socio+"
+    nivel: 2
+    preco: 40.00
+    dinheiro-ativacao: 1000000
+    duracao: 30d
+    ativado: true
+
+    beneficios:
+      - "&7Prefixo exclusivo"
+      - "&7Kit Sócio+"
+      - "&7R$1.000.000 na ativação"
+
+contato:
+  ativado: true
+  tipo: "Discord"
+  valor: "Configure aqui"

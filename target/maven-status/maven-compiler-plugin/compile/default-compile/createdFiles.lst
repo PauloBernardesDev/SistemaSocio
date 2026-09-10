@@ -1,0 +1,17 @@
+dev\paulobernardes\sistemasocio\gerenciadores\GerenciadorJogadores.class
+dev\paulobernardes\sistemasocio\SistemaSocio.class
+dev\paulobernardes\sistemasocio\comandos\GerarKeyComando.class
+dev\paulobernardes\sistemasocio\utilidades\Mensagens.class
+dev\paulobernardes\sistemasocio\gerenciadores\ExpiracaoSocios$1.class
+dev\paulobernardes\sistemasocio\comandos\SocioComando.class
+dev\paulobernardes\sistemasocio\modelos\Socio.class
+dev\paulobernardes\sistemasocio\gerenciadores\GerenciadorKeys.class
+dev\paulobernardes\sistemasocio\gerenciadores\GerenciadorBanco.class
+dev\paulobernardes\sistemasocio\comandos\DefinirSocioComando.class
+dev\paulobernardes\sistemasocio\comandos\AjudaComando.class
+dev\paulobernardes\sistemasocio\comandos\RemoverSocioComando.class
+dev\paulobernardes\sistemasocio\gerenciadores\GerenciadorSocios.class
+dev\paulobernardes\sistemasocio\comandos\KeyComando.class
+dev\paulobernardes\sistemasocio\eventos\SocioMenuListener.class
+dev\paulobernardes\sistemasocio\modelos\KeySocio.class
+dev\paulobernardes\sistemasocio\gerenciadores\ExpiracaoSocios.class
